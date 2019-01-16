@@ -10,6 +10,6 @@ Below is a list of basic terminology to better understand the program:
 - Support: The number of times a simplex appears.
 
 Files:
-- SimplicialComplex.cpp: source file
-- Data.txt: Example data file, with the first number in every row representing the number of points in the given row
+- SimplicialComplex.cpp: The source file.
+- Data.txt: Example data file, with the first number in every row representing the number of points in the given row.
 - Results.txt: Example results using Data.txt. The brackets represent a base; the number outside of the bracket is the base's   support.
